@@ -1,0 +1,42 @@
+[
+  {
+    "component": "Name",
+    "path": "/sales/name",
+    "order": 0,
+    "title": "Nombre y Apellidos",
+    "description": "Ingresa tu nombre completo",
+    "name": "name"
+  },
+  {
+    "component": "Email",
+    "path": "/sales/email",
+    "order": 1,
+    "title": "Correo electrónico",
+    "description": "Ingresa tu correo electrónico",
+    "name": "email"
+  },
+  {
+    "component": "Address",
+    "path": "/sales/address",
+    "order": 2,
+    "title": "Dirección",
+    "description": "Ingresa la dirección del inmueble",
+    "name": "address"
+  },
+  {
+    "component": "Floors",
+    "path": "/sales/floors",
+    "order": 3,
+    "title": "Número de pisos",
+    "description": "Número de piso dónde se encuentra el apartamento",
+    "name": "floors"
+  },
+  {
+    "component": "Options",
+    "path": "/sales/options",
+    "order": 4,
+    "title": "Opciones del inmueble",
+    "description": "Selecciona las opciones que tiene tu inmueble",
+    "name": "options"
+  }
+]
